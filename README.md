@@ -1,0 +1,17 @@
+# [Object Detection] Electric Welding Surface Cover Dataset 1139 imagesYOLO-VOC format（Welding Protection Cover ）
+
+【Target Detection】Electric Welding Face Shield Dataset: 1139 Images in YOLO-VOC format (Welding Shield Protection)
+
+## Images
+
+![01.png](01.png)
+
+![02.jpg](02.jpg)
+
+![03.gif](03.gif)
+
+---
+
+Here is a pay link on Stripe (https://buy.stripe.com/3cs8yP7sY87d0vu9AB). Please contact me lonlonago@foxmail.com after funding $89, and I will send you a complete data files, thank you!
+
+![1.png](1.png)
